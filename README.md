@@ -1,1 +1,2 @@
-Nikita Ponomarev
+**Nikita Ponomarev**\
+**`merge, потому что так удобнее и видны старые коммиты`**
